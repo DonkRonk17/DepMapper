@@ -1,0 +1,14 @@
+# DepMapper - Python Dependency Mapper & Circular Import Detector
+# 
+# ZERO external dependencies!
+# This tool uses ONLY the Python standard library:
+#   - ast (Python source parsing)
+#   - argparse (CLI interface)
+#   - json (data serialization)
+#   - pathlib (cross-platform paths)
+#   - dataclasses (structured data)
+#   - collections (defaultdict)
+#   - typing (type hints)
+#   - os, sys, time, textwrap
+#
+# Just Python 3.7+ required. Nothing to install!
