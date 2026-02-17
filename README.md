@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/22bfbc0b-ca95-4ef0-a3b5-932d448d80ba" />
+
 # 🗺️ DepMapper - Python Dependency Mapper & Circular Import Detector
 
 > **Instantly map, visualize, and analyze import dependencies in any Python project.**
@@ -676,6 +678,9 @@ Tests cover: core functionality, edge cases (empty files, syntax errors, encodin
 | [branding/BRANDING_PROMPTS.md](branding/BRANDING_PROMPTS.md) | DALL-E branding prompts |
 
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94834adc-a623-408b-8252-e942ccea97ce" />
+
 
 ## 🤝 Contributing
 
